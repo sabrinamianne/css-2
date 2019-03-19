@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+li {
+  color: blue;
+  font-style: normal
+  text-align: left;
+}
+
+p {
+  color: red;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 40px
+  line-height: 50px;
+}
